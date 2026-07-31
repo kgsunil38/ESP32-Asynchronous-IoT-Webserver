@@ -1,5 +1,5 @@
-Project: Web Server Implementation on ESP32 Board
-College: JNN College of Engineering, Shimoga (VTU)
+Project: Web Server Implementation on ESP32 Board.
+College: JNN College of Engineering, Shimoga (VTU).
 
 This repository contains the firmware code and implementation architecture for an asynchronous IoT web server built as part of an academic mini-project. The goal was to establish a standalone local network node capable of monitoring environmental telemetry parameters in real time.
 
